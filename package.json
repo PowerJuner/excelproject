@@ -1,0 +1,14 @@
+{
+  "name": "worktest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "myCmd": "bin/myCmd.js"
+  },
+  "dependencies": {
+    "commander": "^6.2.1",
+    "dos2unix": "^1.1.2",
+    "xlsx": "^0.16.9"
+  }
+}
